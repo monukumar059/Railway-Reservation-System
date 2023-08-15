@@ -1,0 +1,631 @@
+@media screen and (max-width: 900px)
+{
+
+    body {
+        max-width: 100%;
+    }
+
+    .index_banner_block .bottom_block .item_block h2 {
+        font-size: 40px;
+    }
+
+    .index_banner_block .bottom_block .item_block p {
+        font-size: 24px;
+    }
+
+    .index_banner_block .bottom_block .item_block .imgbox_block img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .howit_main_block .feth_list_block li .icon i {
+        font-size: 34px;
+    }
+
+    .howit_main_block .feth_list_block h4 {
+        font-size: 22px;
+    }
+
+    .howit_main_block .feth_list_block p {
+        font-size: 16px;
+    }
+
+    .howit_main_block .feth_list_block li .imgbox_block img {
+        max-width: 100%;
+    }
+
+    .heading_block .title {
+        font-size: 34px;
+    }
+
+    .heading_block {
+        padding: 20px 0 20px;
+    }
+
+    .ourprice_block_main .price_tab_block .nav-item .nav-link {
+        font-size: 16px;
+        height: 46px;
+        padding: 12px 0;
+    }
+
+    .ourprice_block_main .price_tab_block .nav-item .nav-link.active {}
+
+
+
+    .ourprice_block_main .plan_item_block .item_block .imgbox-block img {
+        height: 100px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block {
+        padding-top: 30px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block {
+        width: auto;
+        max-width: 210px;
+    }
+
+    .ourprice_block_main .plan_item_block .pro_block {
+        width: auto !important;
+        max-width: 240px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block h2 {
+        font-size: 20px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block h4 {}
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block h1 {
+        font-size: 45px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 10px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block p {
+        max-width: 100%;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .contant_block {
+        padding: 0 4px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .btn_block {
+        padding: 10px 20px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block .btn_block .btn_details {
+        height: auto;
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block .item_inner_block {
+        height: 330px;
+        height: auto;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block.ultimate_block .item_inner_block {
+        height: auto !important;
+        padding-top: 30px;
+    }
+
+    .ourprice_block_main .plan_item_block .item_block.ultimate_block .item_inner_block .contant_block h2 {
+        font-size: 20px;
+    }
+
+    .ourprice_block_main .plan_item_block .pro_block .item_inner_block {height: auto !important;height: 360px !important;}
+
+
+    .heading_block .title {
+        font-size: 30px;
+    }
+
+
+
+    .footer_main_block .flex-box_block .footer_link_block .menu_list li .links {
+        font-size: 13px;
+        line-height: normal;
+    }
+
+    .footer_main_block .flex-box_block .footer_link_block .title {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .footer_main_block .flex-box_block .footer_link_block .menu_list li {
+        margin: 8px 0 0;
+        line-height: normal;
+    }
+
+    .footer_main_block .flex-box_block .footer_link_block {padding: 0 6px;}
+
+
+    .footer_main_block .flex-box_block .copyright_block .coty_text {
+        font-size: 14px;
+    }
+    header {
+        height: auto;
+    }
+
+
+    .index_banner_block .bottom_block { 
+        padding: 30px 0 0; 
+    }
+
+    .heading_block {
+        padding: 0px 0 20px;
+    }
+
+
+    .ourprice_block_main .price_list_block .item_block {
+        width: 200px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block.pro_block {
+        width: 250px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .imgbox-block img {
+        height: 100px;
+    }
+
+    .item_inner_block {}
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block {
+        padding-top: 30px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block.ultimate_block .item_inner_block {
+        padding-top: 30px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block h4 {
+        font-size: 14px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block h2 {
+        font-size: 20px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block.ultimate_block .item_inner_block .contant_block h2 {
+        font-size: 20px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block .price {
+        font-size: 36px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block .sub_price {
+        font-size: 14px;
+        margin: 0 0 5px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block h5 {
+        font-size: 16px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block {
+        padding: 10px  12px 10px;
+    }
+
+    .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block p {
+        padding: 6px 5px 0  !important;
+    }
+    .index_banner_block .top_block .item_block h2 {
+        font-size: 38px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*------------------------  Tablet Resposnive  ---------------------*/
+/*------------------------  Tablet Resposnive  ---------------------*/
+
+
+
+
+/*------------------------  Mobile Resposnive  ---------------------*/
+/*------------------------  Mobile Resposnive  ---------------------*/
+
+@media screen and (max-width: 767px)
+{
+
+
+    header nav.navbar .navbar-brand .img_logo {
+        max-width: 110px;
+    }
+
+    .navbar-dark .navbar-toggler {
+            display: none;
+        }
+
+        header {
+            height: auto;
+        }
+
+        header nav.navbar {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: nowrap;
+        }
+
+        .navbar-collapse {
+            width: auto;
+            flex-grow: unset;
+            flex-basis: unset;
+        }
+
+
+
+            .heading_block {
+                padding: 10px 0 00px;
+            }
+        .footer_main_block .flex-box_block .footer_link_block {
+            width: 100% !important;
+            margin: 0 0 20px;
+        }
+
+        .footer_main_block .flex-box_block .footer_link_block .title {
+            font-size: 18px;
+        }
+
+        .footer_main_block .flex-box_block .footer_link_block .menu_list li .links {
+            font-size: 14px;
+        }
+
+        .footer_main_block .flex-box_block .footer_link_block .contact_link {
+            width: auto;
+            display: inline-block;
+        }
+
+        .footer_main_block .flex-box_block .copyright_block {
+            width: 100% !important;
+        }
+
+        .footer_main_block .flex-box_block .logos_block {
+            width: 100% !important;
+            margin: 00 0;
+        }
+
+        .footer_main_block .flex-box_block .logos_block img {
+            top: 0;
+        } 
+
+
+
+        .index_banner_block .top_block .item_block h2 {
+                margin: 0;
+                text-align: center;
+                font-size: 24px;
+                line-height: 34px;
+            }
+
+            .index_banner_block .top_block .item_block p {
+                font-size: 16px;
+                line-height: normal;
+                max-width: 100%;
+                margin: 0;
+            }
+
+            .index_banner_block .top_block {
+                padding: 20px 0 20px;
+            }
+
+            .index_banner_block .bottom_block {
+                padding: 70px 0  0;
+            }
+
+            .index_banner_block .bottom_block .overlay_block {height: 140px;}
+
+            .index_banner_block .bottom_block .item_block {
+                width: 100%;
+                padding: 20px 20px;
+                margin-top: -40px;
+                flex-direction: column;
+            }
+
+            .index_banner_block .bottom_block .item_block h2 {
+                font-size: 26px;
+                text-align: left;
+                margin: 0 0;
+            }
+            .index_banner_block .bottom_block .item_block .info_block {
+                display: block;
+                padding: 20px 20px;
+                padding: 0;
+            }
+            .index_banner_block .bottom_block .item_block p {
+                font-size: 18px;
+            }
+
+            .index_banner_block .bottom_block .item_block .imgbox_block img {
+                width: auto;
+                max-width: 100%;
+                margin: 0 auto;
+                display: block;
+            }
+            section {
+                padding: 10px 0;
+            }
+            .howit_main_block .feth_list_block {
+                max-width: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            .howit_main_block .feth_list_block li {
+                width: 100% !important;
+            }
+
+            .howit_main_block .feth_list_block li .icon {
+                font-size: 16px;
+            }
+
+            .howit_main_block .feth_list_block li .icon i {
+                font-size: 24px;
+            }
+
+            .howit_main_block .feth_list_block p {
+                margin: 0 0 15px;
+            }
+
+            .howit_main_block .feth_list_block .btn_demo {
+                margin: 0 0 20px;
+            }
+
+            .howit_main_block .feth_list_block li .imgbox_block img {
+                width: auto;
+                max-width: 100%;
+                margin: 0 auto;
+                display: block;
+            }
+
+            .benifits_block .benifits_inner_block .item_block {
+                max-width: 100%;
+                position: relative;
+                padding: 10px;
+                padding-left: 40px;
+            }
+
+            .benifits_block .benifits_inner_block .item_block .box-icon {
+                position: absolute;
+                left: 10px;
+                top: 10px;
+                margin: 0;
+                font-size: 20px;
+            }
+
+            .benifits_block .benifits_inner_block .item_block p {
+                font-size: 14px;
+                line-height: normal;
+                font-weight: 600;
+            }
+
+            .benifits_block .benifits_inner_block .btn_blocks {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .benifits_block .benifits_inner_block .btn_blocks button {
+                margin: 0 0 10px;
+                width: 100%;
+            }
+
+            .heading_block .title {
+                font-size: 18px;
+                font-size: 16px;
+                line-height: normal;
+            }
+
+            .ourprice_block_main .price_tab_block {
+                flex-wrap: unset;
+            }
+
+            .ourprice_block_main .price_tab_block .nav-item .nav-link {
+                height: auto;
+                padding: 10px 10px;
+                font-size: 14px;
+            }
+
+            .ourprice_block_main .plan_item_block .item_block {
+                width: 100%;
+                max-width: 100%;
+            }
+
+            .ourprice_block_main .plan_item_block {
+                padding: 0 20px;
+                width: 100%;
+            }
+
+            .ourprice_block_main .container {
+                max-width: 100%;
+                width: 100%; 
+            }
+
+            .ourprice_block_main .plan_item_block .item_block .imgbox-block {
+            }
+
+            .ourprice_block_main .plan_item_block .item_block .item_inner_block.essentials_block {
+                border: 1px solid rgb(231, 235, 241);
+            }
+
+            .steps_block_main .btn_block {
+                width: 100%;
+                display: block;
+            }
+
+            .steps_block_main .btn_block .btn_demo {
+                width: 100%;
+                margin: 0 0 10px;
+            }
+
+            .steps_block_main .btn_block .btn_signup {
+                width: 100%;
+            }
+
+            .steps_block_main .btn_block button {
+                padding: 10px 0;
+                height: auto;
+                font-size: 16px;
+            }
+
+            .footer_main_block .flex-box_block {
+                display: block;
+            }
+
+
+
+
+
+
+
+
+            .requeststeps_block_main .heading_block .title {
+                font-size: 26px;
+                letter-spacing: .5px;
+            }
+
+            .requeststeps_block_main p {
+                font-size: 14px;
+                line-height: normal;
+                padding: 0;
+                margin: 0 0 20px;
+                max-width: 100% !important;
+            }
+
+            .contact_form_block .contact_inner_block .form_block .form-group label {
+                font-size: 16px !important;
+            }
+
+            .contact_form_block .contact_inner_block .form_block .form-group .text_block {
+                font-size: 16px;
+                height: 44px;
+            }
+
+            .contact_form_block .contact_inner_block .form_block .form-group .text_block1 {
+                height: 184px;
+            }
+
+            .contact_form_block .contact_inner_block .contact_links .item_block {
+                margin: 20px 0 20px;
+                padding: 10px 20px;
+            }
+
+            .contact_form_block .contact_inner_block .contact_links .item_block i {
+                font-size: 30px;
+            }
+
+            .contact_form_block .contact_inner_block .contact_links .item_block p {
+                font-size: 16px;
+                line-height: normal;
+            }
+
+            .contact_form_block .contact_inner_block .contact_links .item_block .call_text {
+                font-size: 26px;
+            }
+
+            .contact_form_block .contact_inner_block .contact_links .item_block .a_text {
+                font-size: 16px;
+            }
+
+            header nav.navbar .navbar-nav .nav-item .nav-link {
+                display: block;
+                padding: 2px 8px;
+                width: auto;
+                height: auto;
+                font-size: 14px;  margin: 0;
+            }
+
+            .btn_demo {
+                display: block;
+                margin: 0 0 10px;
+            }
+            .btn_signup {
+                display: block;
+            }
+
+
+        .ourprice_block_main .price_list_block .item_block {
+            width: 100%;
+            margin: 0 0 20px;
+        }
+
+
+        .ourprice_block_main .price_list_block .item_block.pro_block {
+            width:   100%;
+        }
+
+        .ourprice_block_main .price_list_block .item_block .item_inner_block {
+            border-radius: 10px !important;
+            border: 2px solid rgb(231, 235, 241);
+            height: auto;
+        }
+
+        .ourprice_block_main .price_list_block
+        {
+             margin: 0;
+        }
+
+        .ourprice_block_main .price_list_block .item_block.pro_block {
+                bottom: 0;
+            }
+            .footer_main_block .flex-box_block .footer_link_block .contact_link {
+                height: auto;
+                padding: 8px 10px;
+            }
+            .privacy_main_block h4 {
+                line-height: normal;
+                font-size: 16px;
+            }
+
+            .index_banner_block .top_blue_block {
+            background: #0053a1;
+            padding: 20px 0 20px !important;
+        }
+
+        .ourprice_block_main .price_list_block .item_block .item_inner_block .contant_block p { 
+            text-align: center;
+        }
+
+
+
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
